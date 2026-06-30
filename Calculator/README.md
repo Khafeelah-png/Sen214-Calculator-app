@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://expo.dev/accounts/adrelverse/projects/Calculator/builds/bb83f243-c1d8-44c0-8f8f-0a7f6cc60705).
 
 ## Get started
 
